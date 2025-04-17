@@ -22,7 +22,7 @@ The project focuses on providing a seamless user experience with basic arithmeti
 - js
   
 *Live Demo:*  
-(https://alaa-12612.github.io/codsoft_taskno/task%203/index.html)
+(https://alaa-12612.github.io/codsoft_taskno3/)
 
 ---
 
